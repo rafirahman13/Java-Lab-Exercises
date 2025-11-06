@@ -47,6 +47,7 @@ public class Book {
 }
 
 🧾 Output Preview
+
 Book Information:
 ID: 202
 Title: Atomic Habits
