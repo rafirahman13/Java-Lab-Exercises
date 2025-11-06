@@ -37,7 +37,8 @@ public class Product {
     }
 }
 
-```text
+🧾 Output Preview
+
 Product Information:
 ID: 101
 Title: iPhone 15
