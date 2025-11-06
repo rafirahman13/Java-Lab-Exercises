@@ -36,3 +36,20 @@ public class Product {
         System.out.println("Category: " + category);
     }
 }
+
+🧩 Sample Output
+Book Information:
+ID: 201
+Title: Java Programming
+Author: James Gosling
+Price: $25.99
+Description: A detailed guide for learning core Java concepts.
+Category: Education
+
+🧠 Learning Outcome
+
+Learned how to create and use class structure in Java.
+
+Practiced variable declaration and data types.
+
+Improved understanding of output formatting using System.out.println().
