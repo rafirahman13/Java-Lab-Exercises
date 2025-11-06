@@ -1,4 +1,4 @@
-# 🧮 Assignment 1.1 – Book Information  
+# 🧮 Assignment 2 – Book Information  
 
 ## 🎯 Question  
 Create a Java class called **Book**  
