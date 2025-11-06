@@ -37,14 +37,15 @@ public class Product {
     }
 }
 
-🧩 Sample Output
-Book Information:
-ID: 201
-Title: Java Programming
-Author: James Gosling
-Price: $25.99
-Description: A detailed guide for learning core Java concepts.
-Category: Education
+🧾 Output Preview
+```text
+Product Information:
+ID: 101
+Title: iPhone 15
+Price: 1895.0 euros
+Description: perfect product with best image quality
+Category: phone
+
 
 🧠 Learning Outcome
 
