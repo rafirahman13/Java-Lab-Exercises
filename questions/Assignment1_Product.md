@@ -37,8 +37,6 @@ public class Product {
     }
 }
 
-🧾 Output Preview
-
 ```text
 Product Information:
 ID: 101
@@ -51,7 +49,5 @@ Category: phone
 🧠 Learning Outcome
 
 Learned how to create and use class structure in Java.
-
 Practiced variable declaration and data types.
-
 Improved understanding of output formatting using System.out.println().
