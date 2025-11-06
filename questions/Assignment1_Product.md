@@ -38,6 +38,7 @@ public class Product {
 }
 
 🧾 Output Preview
+
 ```text
 Product Information:
 ID: 101
