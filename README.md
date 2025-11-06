@@ -13,7 +13,8 @@ each question includes a detailed description, code solution, and learning notes
 | No. | Assignment | Description | Link |
 |-----|-------------|--------------|------|
 | 1 | Product Information | Print product details using variables and output formatting | [View Question](./questions/Assignment1_Product.md) |
-| 2 | Book Information | Display book details such as title, author, price, and category | [View Question](./questions/Assignment1.1_Book.md) |
+| 2 | Book Information | Display book details such as title, author, price, and category | [View Question](./questions/Assignment1_1_Book.md) |
+
 
 
 ---
