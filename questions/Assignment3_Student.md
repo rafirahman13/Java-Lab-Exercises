@@ -1,39 +1,32 @@
-# 🧮 Assignment-3 – Student Information  
+# 🧮 Assignment 3 – Student Information  
 
 ## 🎯 Question  
-Create a class called **Student** and display student details following the steps below.  
-
----
+Create a Java class called **Student**
 
 ### 🧩 Instructions  
-* step 1: create a class called Student  
-* step 2: create a main method  
-* step 3: declare variables → id, name, course, marks, grade  
-* step 4: assign the following data in main method  
-  `201, "Rafi Rahman", "Computer Science", 92.5, "A+"`  
-* step 5: print the data using `System.out.println()`  
+1. Create a class named **Student**  
+2. Inside it, create a **main() method**  
+3. Declare variables — `id`, `name`, `course`, `marks`, `grade`  
+4. Assign data to each variable  
+5. Print all student information using `System.out.println()`
+
+| Field | Example Value |
+|-------|----------------|
+| id | 201 |
+| name | Rafi Rahman |
+| course | Computer Science |
+| marks | 92.5 |
+| grade | A+ |
 
 ---
 
 ## 💡 Answer (Java Code)
 
 ```java
-/*
- * Assignment-3 (Variable and Data Type)
- *
- * step 1: create a class called Student
- * step 2: create a main method
- * step 3: declare variables → id, name, course, marks, grade
- * step 4: assign the following data in main method
- *         201, "Rafi Rahman", "Computer Science", 92.5, "A+"
- * step 5: print the data
- */
-
 package labexercises;
 
 public class Student {
     public static void main(String[] args) {
-
         // Step 3: declare variables
         int id;
         String name;
@@ -48,7 +41,7 @@ public class Student {
         marks = 92.5;
         grade = "A+";
 
-        // Step 5: print the data
+        // Step 5: print data
         System.out.println("Student Information:");
         System.out.println("ID: " + id);
         System.out.println("Name: " + name);
@@ -57,3 +50,19 @@ public class Student {
         System.out.println("Grade: " + grade);
     }
 }
+
+🧾 Output Preview
+
+Student Information:
+ID: 201
+Name: Rafi Rahman
+Course: Computer Science
+Marks: 92.5
+Grade: A+
+
+🧠 Learning Outcome
+
+Practiced how to declare, assign, and print data in Java.
+Learned proper structure of a class and main() method.
+Improved understanding of variable types and formatted output.
+Gained confidence in writing clean, readable Java programs.
