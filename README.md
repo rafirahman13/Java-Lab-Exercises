@@ -9,13 +9,14 @@ each question includes a detailed description, code solution, and learning notes
 ---
 
 # 📚 Index of Assignments  
-
+ 
 | No. | Assignment Title | Description | Link |
 |-----|------------------|--------------|------|
 | 1 | Product Information | Print product details using variables and formatted output | [View Question](./questions/Assignment1_Product.md) |
 | 2 | Book Information | Display book details such as title, author, price, and category | [View Question](./questions/Assignment2_Book.md) |
 | 3 | Student Information | Declare variables, assign data, and print student details | [View Question](./questions/Assignment3_Student.md) |
 | 4 | Product Discount Calculator | Calculate final price after applying a discount percentage | [View Question](./questions/Assignment4_ProductDiscount.md) |
+| 5 | Product Information (User Input) | Take product details from user and display formatted output | [View Question](./questions/Assignment5_ProductInput.md) |
 
 
 
