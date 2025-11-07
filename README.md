@@ -24,13 +24,20 @@ each question includes a detailed description, code solution, and learning notes
 
 # 🧩 Folder Structure  
 Java-Lab-Exercises/
+│
 ├── src/
 │ └── labexercises/
 │ ├── Product.java
-│ └── Book.java
+│ ├── Book.java
+│ ├── Student.java
+│ └── ProductDiscount.java
+│
 ├── questions/
 │ ├── Assignment1_Product.md
-│ └── Assignment2_Book.md
+│ ├── Assignment2_Book.md
+│ ├── Assignment3_Student.md
+│ └── Assignment4_ProductDiscount.md
+│
 └── README.md
 
 ---
